@@ -1,2 +1,2 @@
 # C-Projects
-This repository will document my projects done in C
+This repository will be used to track and show my growth in the C language
